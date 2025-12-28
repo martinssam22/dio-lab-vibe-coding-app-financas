@@ -1,6 +1,5 @@
-# 💸 App de Finanças Pessoais com Vibe Coding - Dinheiro no Bolso
-
-PRD refinado no Copilot Web
+#💸 App de Finanças Pessoais com Vibe Coding - Dinheiro no Bolso
+📌 PRD Refinado no Copilot Web
 
 ```Markdown
 # PRD – Aplicativo de Organização de Finanças Pessoais
@@ -50,48 +49,58 @@ Objetivo: simplificar o controle financeiro, eliminando a necessidade de formul�
   - Ajustes rápidos no fluxo de conversa e relatórios.
 
 ```
-#Interações com o Lovable#
+🎥 Interações com o Lovable
 
-> Crie um App de finanças com base no seguinte PRD;
-> Crie uma tela de autenticação de usuário;
-> Altere o nome do APP para Dinheiro no bolso;
-> Crie duas novas abas Registro e Relatório com funcionalidade de segmentação por mês/ano
-> Registro de nome de usuário.
-> Resultado final no Lovable: https://dinheironobolsodio.lovable.app
+### Prompt utilizado:
+
+Crie um App de finanças com base no seguinte PRD;
+Crie uma tela de autenticação de usuário;
+Altere o nome do APP para Dinheiro no Bolso;
+Crie duas novas abas Registro e Relatório com funcionalidade de segmentação por mês/ano;
+Registro de nome de usuário.
+
+### Resultado final no Lovable: https://dinheironobolsodio.lovable.app
+
+### Prints das interações
+
+
 <img width="761" height="729" alt="image" src="https://github.com/user-attachments/assets/163e7e78-bce7-47d2-9b49-02cdad7b4d63" />
 <img width="1291" height="838" alt="image" src="https://github.com/user-attachments/assets/84a47ff3-e1f5-421a-a6c5-e85d72111ad5" />
 <img width="1295" height="839" alt="image" src="https://github.com/user-attachments/assets/e107793d-3224-4f45-b4ab-a549d483bf36" />
 
 
-#*Resumo do APP*#
+### 📖 Resumo do App
 
-O aplicativo “Dinheiro no Bolso” funciona como um assistente financeiro conversacional. A principal interação acontece via chat, onde o usuário informa seus gastos ou receitas em linguagem natural, como “Gastei R$50 no mercado” ou “Recebi R$1000 de salário”. O app registra automaticamente essas transações, organiza por categorias (ex.: Alimentação) e confirma os lançamentos de forma clara e rápida.
+O aplicativo “Dinheiro no Bolso” funciona como um assistente financeiro conversacional.
+A principal interação acontece via chat, onde o usuário informa seus gastos ou receitas em linguagem natural, como “Gastei R$50 no mercado” ou “Recebi R$1000 de salário”.
 
-Além do chat, a interface oferece atalhos práticos (botões para registrar gastos ou receitas comuns) e um menu inferior com acesso a Registros, Metas e Relatórios. Isso permite que o usuário acompanhe seus objetivos financeiros e visualize resumos simples dos gastos, sem precisar lidar com planilhas ou formulários complexos.
+O app registra automaticamente essas transações, organiza por categorias (ex.: Alimentação) e confirma os lançamentos de forma clara e rápida.
+Além do chat, a interface oferece atalhos práticos (botões para registrar gastos ou receitas comuns) e um menu inferior com acesso a Registros, Metas e Relatórios.
 
-Em resumo, o app combina simplicidade, acessibilidade e personalização, tornando o controle financeiro algo natural e fácil de manter no dia a dia.  
+Em resumo, o app combina simplicidade, acessibilidade e personalização, tornando o controle financeiro algo natural e fácil de manter no dia a dia.
 
-*O que funcionou bem:*
+### 📝 Reflexão sobre o processo
 
-- Estruturar o PRD trouxe clareza sobre o app e suas funcionalidades;
+O que funcionou bem:
 
-- O modelo de interação via chat se mostrou simples e natural;
+Estruturar o PRD trouxe clareza sobre o app e suas funcionalidades.
 
-- Incluir design universal fortaleceu a proposta de acessibilidade.
+O modelo de interação via chat se mostrou simples e natural.
 
-*O que não funcionou como esperado:*
+Incluir design universal fortaleceu a proposta de acessibilidade.
 
-- Algumas partes do PRD precisaram ser detalhadas melhor, como acessibilidade e validação;
+O que não funcionou como esperado:
 
-- A visualização em imagem teve limitações técnicas;
+Algumas partes do PRD precisaram ser detalhadas melhor, como acessibilidade e validação.
 
-- Alguns comandos não funcionaram da maneira esperada.
+A visualização em imagem teve limitações técnicas.
 
-*O que aprendi sobre conversar com IAs:*
+Alguns comandos não funcionaram da maneira esperada.
 
-- Quanto mais contexto e clareza, melhores os resultados;
+O que aprendi sobre conversar com IAs:
 
-- O processo é iterativo: ajustes sucessivos refinam a ideia;
+Quanto mais contexto e clareza, melhores os resultados.
 
-- A IA funciona como parceira criativa, ajudando a organizar e expandir conceitos.
+O processo é iterativo: ajustes sucessivos refinam a ideia.
 
+A IA funciona como parceira criativa, ajudando a organizar e expandir conceitos.
